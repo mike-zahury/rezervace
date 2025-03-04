@@ -1,0 +1,5 @@
+- oprava logovani a hesel na 8znaku
+- oprava pri zmene hesla tak obnova na login po 5s
+- kontrola hesla a mailu na duplicitu
+- pridan odkaz na generator hesel
+- heslo.php stejny vzhled jako login.php apod.
